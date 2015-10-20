@@ -404,13 +404,6 @@ dependencies:
     md5: 94665f3a39e670507828f5084a40b669
     cf_stacks:
       - cflinuxfs2
-  - name: bundler
-    version: 1.7.12
-    uri: https://pivotal-buildpacks.s3.amazonaws.com/ruby/binaries/lucid64/bundler-1.7.12.tgz
-    md5: 5cac50112ab676bef0cfaccd7d9aaf52
-    cf_stacks:
-      - lucid64
-      - cflinuxfs2
   - name: rails_log_stdout
     version: 0
     uri: https://pivotal-buildpacks.s3.amazonaws.com/ruby/binaries/lucid64/rails_log_stdout.tgz
